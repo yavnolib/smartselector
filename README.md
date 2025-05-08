@@ -1,7 +1,7 @@
 # SmartSelector
-
 **SmartSelector** is a utility for Linux that lets you take a screenshot of a selected screen area using a hotkey, recognize the text inside this area (OCR), and automatically translate it into Russian using Google Translate. The translated text is shown in a popup window and copied to the clipboard.
 
+**This tool is especially useful when translating subtitles in videos, reading documentation or articles in a foreign language, or quickly understanding any on-screen text without having to manually retype it into a translator**. It significantly speeds up the translation workflow by automating OCR and translation in just a few clicks.
 ## 🔧 Features
 
 - 📸 Take screenshots and select arbitrary screen regions with the mouse
